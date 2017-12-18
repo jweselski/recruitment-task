@@ -1,1 +1,6 @@
+### PHPStorm ###
 .idea
+
+### Vagrant ###
+.vagrant/
+*.box
